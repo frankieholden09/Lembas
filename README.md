@@ -1,7 +1,6 @@
 # Lembas
 
-![Thermos](7E08A098-0646-41CA-AEB8-FC41B117BA06.jpeg)
-![Graph](http://i.mcstats.org/Thermos/Global+Statistics@2x.borderless.png)
+![Lembas](7E08A098-0646-41CA-AEB8-FC41B117BA06.jpeg)
 
 [![Build Status](https://travis-ci.org/CyberdyneCC/Thermos.svg?branch=master)](https://travis-ci.org/CyberdyneCC/Thermos)
 ![Minecraft Forge v10.13.4.1614][forge]
