@@ -1,6 +1,6 @@
 # Lembas
 
-![Thermos](thermos_icon.png)
+![Thermos](7E08A098-0646-41CA-AEB8-FC41B117BA06.jpeg)
 ![Graph](http://i.mcstats.org/Thermos/Global+Statistics@2x.borderless.png)
 
 [![Build Status](https://travis-ci.org/CyberdyneCC/Thermos.svg?branch=master)](https://travis-ci.org/CyberdyneCC/Thermos)
